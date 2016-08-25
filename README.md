@@ -20,3 +20,5 @@ ___Completando la función___
 6. MULTIPLICAR "HORAS" Y "PAGO"
 7. IMPRIMIR RESULTADO
 8. FIN
+
+![Diagrama de flujo](http://i68.tinypic.com/xcmxbc.jpg)
